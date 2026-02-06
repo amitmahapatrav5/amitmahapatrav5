@@ -37,7 +37,7 @@
   <img alt="Pydantic" src="https://docs.pydantic.dev/latest/logo-white.svg" height="40"/>
   <img alt="SQLAlchemy" height="40"/>
   <img alt="PostgreSQL" src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40"/>
-  <img alt="Microsoft SQL Server" height="40"/>
+  <img alt="Microsoft SQL Server" src="azure-sql-server.svg" height="40"/>
   <img alt="Valkey" src="https://valkey.io/img/valkey-horizontal.svg" height="40"/>
   <img alt="Docker" src="https://github.com/docker/.github/raw/main/profile/docker-logo-blue.svg" height="40"/>
   <img alt="OAuth 2.0" src="https://oauth.net/images/oauth-logo-square.png" height="40"/>
@@ -48,33 +48,27 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/amitmahapatrav5" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/amitmahapatrav5/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://huggingface.co/amitmahapatrav5" target="blank">
-<img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" height="30" width="40" />
-</a>
-
-<a href="https://amitmahapatrav5.github.io/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="30" />
-</a>
-
-<a href="https://www.youtube.com/@amitmahapatrav5" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-
-<a href="https://x.com/amitmahapatrav5" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="30" />
-</a>
-
-<a href="https://www.instagram.com/amitmahapatrav5" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://github.com/amitmahapatrav5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/amitmahapatrav5/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://huggingface.co/amitmahapatrav5" target="blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" height="30" width="40" />
+  </a>
+  <a href="https://amitmahapatrav5.github.io/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="30" />
+  </a>
+  <a href="https://www.youtube.com/@amitmahapatrav5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
+  <a href="https://x.com/amitmahapatrav5" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/amitmahapatrav5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
