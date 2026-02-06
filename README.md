@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mahapatra</h1>
 <h3 align="center">Generative AI Engineer | Backend Engineer | Building Production-Grade AI Systems</h3>
 
-## 🚀 About Me
+## About Me
 
 - Currently working as **Generative AI Backend Engineer @ TCS**
 - Focused on **Production GenAI Systems, Agentic AI, and Scalable Backend Architecture**
@@ -18,7 +18,9 @@
   <img alt="Unstructured" src="https://raw.githubusercontent.com/Unstructured-IO/unstructured/main/img/unstructured_logo.png" height="40"/>
   <img alt="Qdrant" src="https://github.com/qdrant/qdrant/raw/master/docs/logo.svg" height="40"/>
   <img alt="DSPy" src="https://dspy.ai/static/img/dspy_logo.png" height="40"/>
-  <img alt="trustcall" height="40"/>
+  <span style="display:inline-block; font-size:16px; font-weight:600; padding:6px 10px; border-radius:6px; border:1px solid #d0d7de;">
+    🤝trustcall
+  </span>  
   <img alt="HuggingFace Transformers" src="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-light.svg" height="40"/>
 </p>
 
@@ -35,17 +37,21 @@
   <img alt="Python" src="https://www.python.org/static/img/python-logo.png" height="40"/>
   <img alt="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40"/>
   <img alt="Pydantic" src="https://docs.pydantic.dev/latest/logo-white.svg" height="40"/>
-  <img alt="SQLAlchemy" height="40"/>
+  <span style="display:inline-block; font-size:16px; font-weight:600; padding:6px 10px; border-radius:6px; border:1px solid #d0d7de;">
+    SQLAlchemy
+  </span>
   <img alt="PostgreSQL" src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40"/>
   <img alt="Microsoft SQL Server" src="azure-sql-server.svg" height="40"/>
   <img alt="Valkey" src="https://valkey.io/img/valkey-horizontal.svg" height="40"/>
   <img alt="Docker" src="https://github.com/docker/.github/raw/main/profile/docker-logo-blue.svg" height="40"/>
   <img alt="OAuth 2.0" src="https://oauth.net/images/oauth-logo-square.png" height="40"/>
-  <img alt="Azure AD SSO" height="40"/>
+  <span style="display:inline-block; font-size:16px; font-weight:600; padding:6px 10px; border-radius:6px; border:1px solid #d0d7de;">
+    Azure AD SSO
+  </span>  
   <img alt="OpenTelemetry" src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" height="40"/>
 </p>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/amitmahapatrav5" target="blank">
@@ -73,7 +79,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20"/> 
