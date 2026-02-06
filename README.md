@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Mahapatra</h1>
-<h3 align="center">Generative AI Engineer | Backend Engineer | Building Production-Grade AI Systems</h3>
 
 ## About Me
 
